@@ -9,7 +9,7 @@ const Contact = () => {
           For any questions please drop a mail
         </h1>
         <h3 className="text-center text-3xl md:text-4xl lg:text-6xl text-gradient font-semibold md:font-bold pt-5 md:pt-10 md:pb-6">
-          <a href="mailto:altrawan@gmail.com">altrawan@gmail.com</a>
+          <a href="mailto:ridhoabiyaktaprayoga13@gmail.com">ridhoabiyaktaprayoga13@gmail.com</a>
         </h3>
       </main>
     </Layout>

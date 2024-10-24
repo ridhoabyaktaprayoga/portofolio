@@ -5,19 +5,14 @@ import {
   javascript,
   react,
   nextjs,
-  redux,
   bootstrap,
   tailwind,
-  sass,
-  gsap,
-  socketio,
   vuejs,
-  nodejs,
-  express,
-  redis,
   php,
   laravel,
-  codeigniter,
+  c,
+  cplus2,
+
 } from '../../../assets';
 
 export const Technologies = () => {
@@ -37,19 +32,14 @@ export const Technologies = () => {
         <img src={javascript} title="JavaScript" alt="Javascript" />
         <img src={react} title="React" alt="React" />
         <img src={nextjs} title="Next.js" alt="Next.js" />
-        <img src={redux} title="Redux" alt="Redux" />
         <img src={bootstrap} title="Bootstrap" alt="Bootstrap" />
         <img src={tailwind} title="Tailwind CSS" alt="Tailwind CSS" />
-        <img src={sass} title="SASS" alt="SASS" />
-        <img src={gsap} title="GSAP" alt="GSAP" />
-        <img src={socketio} title="Socket.io" alt="Socket.io" />
         <img src={vuejs} title="Vue.js" alt="Vue.js" />
-        <img src={nodejs} title="Node.js" alt="Node.js" />
-        <img src={express} title="Express.js" alt="Express.js" />
-        <img src={redis} title="Redis" alt="Redis" />
         <img src={php} title="PHP" alt="PHP" />
         <img src={laravel} title="Laravel" alt="Laravel" />
-        <img src={codeigniter} title="Codeigniter" alt="Codeigniter" />
+        <img src={c} title="c" alt="c" />
+        <img src={cplus2} title="cplus2" alt="cplus2" />
+
       </section>
     </main>
   );

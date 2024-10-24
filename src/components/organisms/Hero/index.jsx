@@ -67,21 +67,21 @@ export const Hero = () => {
           ref={h12}
           className="text-2xl bg-clip-text bg-gradient text-transparent md:text-4xl xl:text-5xl xl:leading-tight font-bold capitalize"
         >
-          muhammad alif
+          ridho abyakta
         </h1>
         <h3
           ref={h13}
           className="w-full text-2xl text-dark-primary dark:text-light-primary md:text-4xl xl:text-5xl xl:leading-tight font-bold capitalize"
         >
-          fullstack web developer
+          Web Developer
         </h3>
       </div>
       <div className="mt-5 md:mt-0 w-48">
         <img
-          src="https://avatars.githubusercontent.com/u/39686865?s=400&u=fc2b6fb61457a7a234a221ca52cbefa4387c554d&v=4"
-          alt="Altrawan"
+          src="https://avatars.githubusercontent.com/u/161543315?s=400&u=79f5af4a80401cc50199518b909c934e8c59bfe6&v=4"
+          alt="Ridho"
           ref={myimageref}
-          className="w-1/2 md:ml-auto w-100 border-8 border-dark-primary dark:border-light-primary rounded-full bg-slate-500"
+          className="w-1/2 md:ml-auto w-100 border-8 border-d   ark-primary dark:border-light-primary rounded-full bg-slate-500"
         />
       </div>
     </main>

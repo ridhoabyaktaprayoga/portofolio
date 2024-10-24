@@ -77,17 +77,6 @@ export const Footer = () => {
             <NavLink to="/">Contact</NavLink>
           </li>
         </ul>
-        <p className="text-dark-content dark:text-light-content">
-          Copyright &copy; 2022{' '}
-          <a
-            className="font-medium"
-            href="https://github.com/altrawan/"
-            target="_blank"
-            rel="noreferrer noopener"
-          >
-            Altrawan
-          </a>{' '}
-        </p>
       </div>
     </footer>
   );

@@ -8,37 +8,50 @@ const About = () => {
       <main className="container mx-auto max-width pt-10 pb-20 mt-10">
         <section>
           <h1 className="text-1xl text-dark-primary dark:text-light-primary md:text-3xl xl:text-4xl xl:leading-tight font-bold capitalize">
-            about me
+            About Me
           </h1>
           <p className="text-content py-8 lg:max-w-3xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt
-            consectetur beatae laboriosam dolor a nostrum possimus rem atque
-            magnam inventore. Nam facilis blanditiis ipsam accusamus quo magnam
-            assumenda, ullam quaerat.
+            Hi, I’m Ridho Abiyakta Prayoga, the eldest of three siblings.
+            I have a strong interest in IT, particularly and software and web development.
+            My curiosity for technology drives me to keep learning and improving.
           </p>
         </section>
         <section>
           <h1 className="text-1xl text-dark-primary dark:text-light-primary md:text-3xl xl:text-4xl xl:leading-tight font-bold capitalize">
-            work experience
+            Work Experience
           </h1>
           <Timeline
-            position="Staff IT"
-            company="Universitas Siliwangi"
-            location="Tasikmalaya"
-            type="Intership"
-            duration="May 2018 - Jul 2018"
+            position="Worker"
+            company="RS Clean"
+            location="Jakarta"
+            type="Internship"
+            duration="May 2023 - Jul 2024"
           />
         </section>
         <section className="mt-6">
           <h1 className="text-1xl text-dark-primary dark:text-light-primary md:text-3xl xl:text-4xl xl:leading-tight font-bold capitalize">
-            education
+            Education
           </h1>
           <Timeline
             position="Rekayasa Perangkat Lunak"
-            company="SMK Negeri 1 Kawali"
-            location="Ciamis"
+            company="SMK Negeri 21 Jakarta"
+            location="Jakarta Pusat"
             type="Full Time"
-            duration="Jul 2016 - May 2019"
+            duration="2023 - 2025"
+          />
+          <Timeline
+            position="Sekolah Menengah Pertama"
+            company="SMPN 221 Jakarta"
+            location="Jakarta Utara"
+            type="Full Time"
+            duration="2020 - 2023"
+          />
+          <Timeline
+            position="Sekolah Dasar"
+            company="SDN 03 Pagi"
+            location="Jakarta Utara"
+            type="Full Time"
+            duration="2014 - 2020"
           />
         </section>
       </main>

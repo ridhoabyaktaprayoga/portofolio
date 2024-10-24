@@ -4,13 +4,10 @@ import picture from './default.jpg';
 // Tech Stack
 import bootstrap from './bootstrap.png';
 import bulma from './bulma.png';
-import codeigniter from './codeigniter.svg';
 import css from './css.png';
-import express from './express.png';
 import figma from './figma.png';
 import git from './git.png';
 import github from './github.png';
-import gsap from './gsap.png';
 import html from './html.png';
 import javascript from './javascript.png';
 import laravel from './laravel.webp';
@@ -20,33 +17,32 @@ import npm from './npm.png';
 import php from './php.png';
 import postman from './postman.png';
 import react from './react.png';
-import redis from './redis.webp';
-import redux from './redux.png';
-import sass from './sass.png';
-import socketio from './socket-io.png';
 import tailwind from './tailwind.png';
 import vscode from './vscode.png';
 import vuejs from './vuejs.png';
+import c from './c.png';
+import cplus2 from './cplus2.png';
+import devc from './devc.png';
+import replit from './replit.png';
+import gdevelop5 from './gdevelop5.png';
+import unity from './unity.png';
 
 // Projects
-import MamaRecipe from './Mama Recipe.png';
-import AnkasaTicketing from './Ankasa Ticketing.png';
-import PeworldHire from './Peworld Hire.png';
-import TelegramChat from './Telegram Chat.png';
-import BlanjaShop from './Blanja Shop.png';
+import todolist from './todolist.png';
+import knightadventure from './knightadventure.png';
+import loginregiscrudsimple from './loginregiscrudsimple.jpg';
+import figmatemplate from './figmatemplate.jpg';
+import imtberatbadan from './imtberatbadan.jpg';
 
 export {
   logo,
   picture,
   bootstrap,
   bulma,
-  codeigniter,
   css,
-  express,
   figma,
   git,
   github,
-  gsap,
   html,
   javascript,
   laravel,
@@ -56,16 +52,18 @@ export {
   php,
   postman,
   react,
-  redis,
-  redux,
-  sass,
-  socketio,
   tailwind,
   vscode,
   vuejs,
-  MamaRecipe,
-  AnkasaTicketing,
-  PeworldHire,
-  TelegramChat,
-  BlanjaShop,
+  c,
+  cplus2,
+  devc,
+  replit,
+  gdevelop5,
+  unity,
+  todolist,
+  knightadventure,
+  loginregiscrudsimple,
+  figmatemplate,
+  imtberatbadan,
 };

@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/altrawan/portofolio">
+  <a href="https://github.com/ridhoabyaktaprayoga/portofolio">
     <img src="https://lh3.googleusercontent.com/d/1i1onrFM9zCouq-hSkNaxQheUn_gUaANV" alt="Logo" width="140px">
   </a>
 
@@ -17,9 +17,9 @@
     <br />
     <a href="https://bit.ly/mama-recipe-app">View Demo</a>
     ·
-    <a href="https://github.com/altrawan/portofolio/issues">Report Bug</a>
+    <a href="https://github.com/ridhoabyaktaprayoga/portofolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/altrawan/portofolio/issues">Request Feature</a>
+    <a href="https://github.com/ridhoabyaktaprayoga/portofolio/issues">Request Feature</a>
     <br />
   </p>
 </div>
@@ -81,10 +81,10 @@ Before going to the installation stage there are some software that must be inst
 
 ### Installation
 
-If you want to run this project locally, We recommend you to configure the [back-end](https://github.com/altrawan/portofolio-api) first before configuring this repo front-end.
+If you want to run this project locally, We recommend you to configure the [back-end](https://github.com/ridhoabyaktaprayoga/portofolio-api) first before configuring this repo front-end.
 - Clone the repo
 ```
-git clone https://github.com/altrawan/portofolio.git
+git clone https://github.com/ridhoabyaktaprayoga/portofolio.git
 ```
 - Go To Folder Repo
 ```
@@ -158,22 +158,11 @@ Contributions are what make the open source community such an amazing place to b
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Related Project
-:rocket: [`Backend Portofolio`](https://github.com/altrawan/portofolio-api)
-
-:rocket: [`Frontend Portofolio`](https://github.com/altrawan/portofolio)
-
-:rocket: [`Web Service`](https://altrawan.herokuapp.com/)
-
-:rocket: [`Demo Portofolio`](https://altrawan.vercel.app/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Contact
 
-My Email : muhammadalifputra8888@gmail.com
+My Email : ridhoabiyaktaprayoga13@gmail.com
 
-Project Link: [https://github.com/altrawan/portofolio](https://github.com/altrawan/portofolio)
+Project Link: [https://github.com/ridhoabyaktaprayoga/portofolio](https://github.com/ridhoabyaktaprayoga/portofolio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
